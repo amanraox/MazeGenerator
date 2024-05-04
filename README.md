@@ -20,5 +20,5 @@ The following maze generation algorithms are used and tested:
 
 ## Usage
 
-To generate a maze using the default settings, simply run the `mazeGenerator.py` script:
+To generate a maze using the default settings, simply run the `$ mazeGenerator.py` script:
 
