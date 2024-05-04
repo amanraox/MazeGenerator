@@ -1,3 +1,3 @@
-#MAZE GENERATOR
+# MAZE GENERATOR
 
 simply generates random Maze
